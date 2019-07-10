@@ -11,7 +11,7 @@ In this module we will connect up fives LEDs on a breadboard to an output PIN an
 5. Red, Blue, Yellow, White, Green LED
 
 ## Steps
-1. Connect the Wires, LEDs, Breadboard, Resister and Module up as show in diagram 3.
+1. Connect the Wires, LEDs, Breadboard, Resister and Module up as show in diagram 2.
 2. Connect the module and computer using the USB cable.
 3. Load the ino file into Arduino Studio.
 4. Check the Board and Port settings

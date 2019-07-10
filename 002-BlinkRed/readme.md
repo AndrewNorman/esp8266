@@ -11,7 +11,7 @@ In this module we will connect up a Red LED on a breadboard to an output PIN and
 5. Red LED
 
 ## Steps
-1. Connect the Wire, Breadboard, Resister, LED and Module up as show in diagram 2.
+1. Connect the Wire, Breadboard, Resister, LED and Module up as show in diagram 1.
 2. Connect the module and computer using the USB cable.
 3. Load the ino file into Arduino Studio.
 4. Check the Board and Port settings
