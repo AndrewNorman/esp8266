@@ -6,8 +6,8 @@
 #include <ESP8266mDNS.h>
 #include <ESP8266WebServer.h>
 
-const char *ssid = "BjssWifi";
-const char *password = "bjssweekend";
+const char *ssid = "<ask>";
+const char *password = "<ask>";
 
 /*
  * Connect the LEDs (plus resistor) to the pins

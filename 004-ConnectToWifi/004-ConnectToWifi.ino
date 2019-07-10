@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 
 // The name and password of the Wi-Fi network to connect to
-const char *ssid = "BjssWifi";
-const char *password = "bjssweekend";
+const char *ssid = "<ask>";
+const char *password = "<ask>";
 
 void setup()
 {

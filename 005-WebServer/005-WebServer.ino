@@ -6,8 +6,8 @@
 #include <ESP8266mDNS.h>
 #include <ESP8266WebServer.h>
 
-const char *ssid = "BjssWifi";
-const char *password = "bjssweekend";
+const char *ssid = "<ask>";
+const char *password = "<ask>";
 
 ESP8266WebServer server(80); // Create a webserver object that listens for HTTP request on port 80
 
