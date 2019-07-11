@@ -1,4 +1,4 @@
-# 006 - Web Server
+# 005 - Web Server
 
 ## Introduction
 In this module we will set up a WebServer that you can visit using your computer.
